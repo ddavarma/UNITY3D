@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{96512A4C-5710-4407-AF0A-64D8FB8F5B29}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/coins.cs">
+    <Files>
+      <File FileName="Assets/Scripts/First.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/Second.cs" Line="21" Column="14" />
+      <File FileName="Assets/Scripts/Player.cs" Line="26" Column="9" />
+      <File FileName="Assets/Scripts/coins.cs" Line="18" Column="2" />
+      <File FileName="Assets/Scripts/Circle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
